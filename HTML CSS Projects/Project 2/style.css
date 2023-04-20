@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+h2 {
+    font-weight: normal;
+    color: #888;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 0.8rem;
+    color: #888;
+    margin-block: 10px;
+}
+
+.left-column {
+    width: 35%;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 4px 4px 4px #ccc;
+    /* padding: 20px; */
+}
+
+.right-column {
+    width: 65%;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 20px;
+}
+
+.container {
+    width: 70%;
+    display: flex;
+    flex-flow: row;
+    margin-inline: auto;
+    margin-block: 20px;
+    gap: 20px;
+}
+
+hr {
+    border: 0.5px solid #eee;
+    /* margin-block: 10px; */
+}
+
+.image-box img {
+    width: 100%;
+}
+
+.image-box {
+    position: relative;
+}
+
+.image-box .username {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+ul {
+    margin-block: 20px;
+    list-style: none;
+}
+
+ul>li {
+    margin-top: 8px;
+}
+
+.icon-text {
+    display: flex;
+    flex-flow: row nowrap;
+    column-gap: 10px;
+}
+
+i {
+    color: teal;
+}
+
+.progress-bar {
+    background-color: #ccc;
+    /* background-color: red; */
+    border-radius: 20px;
+    margin-block: 8px;
+}
+
+.progress-bar .progress {
+    background-color: teal;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    font-size: 0.5rem;
+    padding-block: 2px;
+}
+
+/* span{
+background-color: teal;
+color: white;
+padding-inline: 5px;
+border-radius: 2px;
+} */
+
+.subtext {
+    color: #212121;
+}
+
+.left-desc,
+.padding {
+    margin-inline: 10px;
+}
+
+.card-content {
+    margin-inline: 20px;
+}
+
+.skills,
+.Languages {
+    margin-block: 20px;
+}
+
+.icon-text p {
+    color: teal;
+    margin-bottom: 10px;
+}
+
+.work-experience hr,
+.education hr {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.work-experience h2,
+.education h2 {
+    margin-bottom: 30px;
+}
+
+span {
+    color: white;
+    background-color: teal;
+    border-radius: 6px;
+    border: 2px solid white;
+    padding: 2px 4px;
+}
