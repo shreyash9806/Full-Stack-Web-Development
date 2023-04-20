@@ -1,0 +1,11 @@
+$ touch .gitignore
+$ git config --global user.name "shreyash9806"
+$ git config --global user.email "skumar60_be18@thapar.edu"
+$ git init
+$ git status
+$ git add .
+$ git remote add origin git@github.com:shreyash9806/Full-Stack-Web-Development.git
+$ git commit -m "initial commit"
+$ git push origin master
+$ git push -f origin master //if above command don't work
+
