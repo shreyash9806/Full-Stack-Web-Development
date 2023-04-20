@@ -5,5 +5,5 @@ This is my Full Stack Web Development Repository where I have created projects f
 These are my all HTML/CSS Projects and Clones.
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Beginner Portfolio Layout](https://lively-sunburst-4a9276.netlify.app/)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
+| 01  | [Beginner Portfolio Layout](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://lively-sunburst-4a9276.netlify.app/)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
