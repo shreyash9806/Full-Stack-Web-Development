@@ -9,6 +9,14 @@ These are my all HTML/CSS Projects and Clones.
 | 02  | [Resume Layout](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20Projects/Project%202)                               | [Live Demo](https://chimerical-cobbler-4c1198.netlify.app/)                |
 | 03  | [Responsive website Usability Hub Clone ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20Projects/Project%203)                               | [Live Demo](https://curious-otter-00129b.netlify.app/)                |
 
+
+# 2- HTML/CSS and Javascript Projects(Beginner To Advanced)
+
+These are my all Javascript Projects and Clones.
+|  #  | Project                                                                                                                     | Deployment                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [JavaScript Quote Generator](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20Projects/Project%201)                             | [Live Demo](https://hilarious-semolina-a63edf.netlify.app/)               |
+
 ## 🚀 About Me
 I'm a full stack developer...
 
