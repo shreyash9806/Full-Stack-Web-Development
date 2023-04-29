@@ -15,7 +15,7 @@ These are my all HTML/CSS Projects and Clones.
 These are my all Javascript Projects and Clones.
 |  #  | Project                                                                                                                     | Deployment                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [JavaScript Quote Generator](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%201)                             | [Live Demo](https://hilarious-semolina-a63edf.netlify.app/)               |
+| 01  | [JavaScript Quote Generator](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%201)                             | [Live Demo](https://nimble-sunflower-e9bfe8.netlify.app/)               |
 
 ## 🚀 About Me
 I'm a full stack developer...
