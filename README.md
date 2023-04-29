@@ -22,17 +22,18 @@ Hi there! I'm a recent graduate with a degree in Computer Science and a passion 
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently Self Employed .
 
-🧠 I'm currently learning...
+🧠 I'm currently working on my skills to become a Fully Fledged Software Developer.
 
 👯‍♀️ I'm looking to collaborate on...
 
 🤔 I'm looking for help with...
 
-💬 Ask me about...
-
-📫 How to reach me...
+📫 Thank you for visiting my Github profile! If you'd like to get in touch with me, please don't hesitate to contact me through the following channels:
+Email: skumar60_be18@thapar.edu
+Phone: 7017462302
+LinkedIn: https://www.linkedin.com/in/shreyash-kumar-78026821a/
 
 😄 Pronouns...
 
