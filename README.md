@@ -35,6 +35,4 @@ Hi there! I'm a recent graduate with a degree in Computer Science and a passion 
 - Phone: [+91 7017462302](+917017462302)
 - LinkedIn: https://www.linkedin.com/in/shreyash-kumar-78026821a/
 
-😄 Pronouns...
-
-⚡️ Fun fact...
+⚡️ Fun fact...I love coding so much that I once stayed up all night to solve a tricky bug in my code. It was frustrating at first, but the feeling of finally cracking the problem was incredibly satisfying. From then on, I learned the importance of taking breaks and coming back with fresh eyes to solve coding challenges.
