@@ -21,16 +21,17 @@ These are my all Javascript Projects and Clones.
 Hi there! I'm a recent graduate with a degree in Computer Science and a passion for Full Stack Development. I have hands-on experience with HTML, CSS, JavaScript, and various front-end frameworks such as React and Angular, as well as back-end technologies such as Node.js and MongoDB. I am also proficient in programming languages like Python and Java. I have a strong foundation in data structures, algorithms, and software development principles, and I am eager to apply my skills to real-world projects. As a quick learner and a team player, I am excited to collaborate with experienced developers to create innovative solutions that meet the needs of clients and end-users. I am committed to continuously improving my skills and keeping up with the latest industry trends and best practices.
 
 
-## My Small BioData and Contact info
-👩‍💻 I am a Currently self-employed Software Engineer with a passion for delivering high-quality services to my clients.
+## My Small BioData
+👩‍💻 I am Currently self-employed Software Engineer with a passion for delivering high-quality services to my clients.
 
-🧠 I'm currently working on my skills to become a Fully Fledged Software Developer.
+🧠 I'm Also working on my skills to Sharpen my Software Developer skills.
 
 👯‍♀️ When it comes to collaboration, I believe in open and honest communication, mutual respect, and a shared commitment to achieving our goals. As we work together.
 
+⚡️ Fun fact...I love coding so much that I once stayed up all night to solve a tricky bug in my code. It was frustrating at first, but the feeling of finally cracking the problem was incredibly satisfying. From then on, I learned the importance of taking breaks and coming back with fresh eyes to solve coding challenges.
+
+## Contact Info
 📫 Thank you for visiting my Github profile! If you'd like to get in touch with me, please don't hesitate to contact me through the following channels:
 - Email: skumar60_be18@thapar.edu
 - Phone: [+91 7017462302](+917017462302)
 - LinkedIn: https://www.linkedin.com/in/shreyash-kumar-78026821a/
-
-⚡️ Fun fact...I love coding so much that I once stayed up all night to solve a tricky bug in my code. It was frustrating at first, but the feeling of finally cracking the problem was incredibly satisfying. From then on, I learned the importance of taking breaks and coming back with fresh eyes to solve coding challenges.
