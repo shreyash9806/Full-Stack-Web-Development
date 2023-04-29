@@ -7,6 +7,7 @@ These are my all HTML/CSS Projects and Clones.
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Responsive Portfolio Layout](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20Projects/Project%201)                             | [Live Demo](https://lively-sunburst-4a9276.netlify.app/)               |
 | 02  | [Resume Layout](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20Projects/Project%202)                               | [Live Demo](https://chimerical-cobbler-4c1198.netlify.app/)                |
+| 03  | [Responsive website Usability Hub Clone ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20Projects/Project%202)                               | [Live Demo](https://chimerical-cobbler-4c1198.netlify.app/)                |
 
 ## 🚀 About Me
 I'm a full stack developer...
