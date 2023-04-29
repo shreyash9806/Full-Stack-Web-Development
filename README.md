@@ -21,7 +21,7 @@ These are my all Javascript Projects and Clones.
 Hi there! I'm a recent graduate with a degree in Computer Science and a passion for Full Stack Development. I have hands-on experience with HTML, CSS, JavaScript, and various front-end frameworks such as React and Angular, as well as back-end technologies such as Node.js and MongoDB. I am also proficient in programming languages like Python and Java. I have a strong foundation in data structures, algorithms, and software development principles, and I am eager to apply my skills to real-world projects. As a quick learner and a team player, I am excited to collaborate with experienced developers to create innovative solutions that meet the needs of clients and end-users. I am committed to continuously improving my skills and keeping up with the latest industry trends and best practices.
 
 
-## Other Common Github Profile Sections
+## My Small BioData and Contact info
 👩‍💻 I am a Currently self-employed Software Engineer with a passion for delivering high-quality services to my clients.
 
 🧠 I'm currently working on my skills to become a Fully Fledged Software Developer.
