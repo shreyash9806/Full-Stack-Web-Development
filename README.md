@@ -22,13 +22,11 @@ Hi there! I'm a recent graduate with a degree in Computer Science and a passion 
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently Self Employed .
+👩‍💻 I am a Currently self-employed Software Engineer with a passion for delivering high-quality services to my clients.
 
 🧠 I'm currently working on my skills to become a Fully Fledged Software Developer.
 
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
+👯‍♀️ When it comes to collaboration, I believe in open and honest communication, mutual respect, and a shared commitment to achieving our goals. As we work together.
 
 📫 Thank you for visiting my Github profile! If you'd like to get in touch with me, please don't hesitate to contact me through the following channels:
 - Email: skumar60_be18@thapar.edu
