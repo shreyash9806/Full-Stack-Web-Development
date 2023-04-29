@@ -31,9 +31,9 @@ Hi there! I'm a recent graduate with a degree in Computer Science and a passion 
 🤔 I'm looking for help with...
 
 📫 Thank you for visiting my Github profile! If you'd like to get in touch with me, please don't hesitate to contact me through the following channels:
-Email: skumar60_be18@thapar.edu
-Phone: 7017462302
-LinkedIn: https://www.linkedin.com/in/shreyash-kumar-78026821a/
+- Email: skumar60_be18@thapar.edu
+- Phone: 7017462302
+- LinkedIn: https://www.linkedin.com/in/shreyash-kumar-78026821a/
 
 😄 Pronouns...
 
