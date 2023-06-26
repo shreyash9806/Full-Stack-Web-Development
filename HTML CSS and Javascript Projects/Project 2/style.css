@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg) 
+    no-repeat center center/ cover;
+    width: 100%;
+    height: 100vh;
+}
+
+#open-btn{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    position: absolute;
+    top: 75%;
+    left: 8%;
+    cursor: pointer;
+    padding: 20px 40px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    transition: 0.5s;
+}
+
+#open-btn:hover{
+    color: black;
+    background-color: lightgray;
+}
+
+
+#model p{
+    font-size: 1.5rem;
+}
+
+#close-btn{
+    background: none;
+    border: none;
+    font-size: 3rem;
+    font-weight: 100;
+    color: #c71340;
+    cursor: pointer;
+}
+
+#model{
+    color: black;
+    position: absolute;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    height: 100px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    animation: up-bot 0.5s ease-in-out;
+}
+
+.modal-container{
+    display: none;
+    /* border: 1px solid blue; */
+    /* height: 200px; */
+    /* Important try to understand */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(0,0,0,.2) ;
+}
+
+
+@keyframes up-bot {
+    from{
+        top: -200px;
+        opacity: 0;
+    }
+    to{
+        top: 50%;
+        opacity: 1;
+    }
+}
