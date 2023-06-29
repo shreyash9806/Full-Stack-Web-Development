@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('https://images.pexels.com/photos/1350197/pexels-photo-1350197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover;
+}
+
+
+section{
+    width: 40%;
+    border-radius: 20px;
+    gap: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-block: 30px 20px;
+}
+
+#timer{
+    font-size: 4rem;
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    gap: 10px;
+}
+#play-pause-btn{
+    font-size: 1.8rem;
+    cursor: pointer;
+    padding: 2px 8px;
+    color: white;
+    background-color: green;
+}
+#reset-btn{
+    font-size: 1.8rem;
+    cursor: pointer;
+    padding: 2px 5px;
+    color: white;
+    background-color: red;
+}
