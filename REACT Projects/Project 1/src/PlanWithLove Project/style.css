@@ -1,0 +1,134 @@
+.img-box {
+    margin: 5px;
+    height: 290px;
+}
+
+.cards-style {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cards-align {
+    display: grid;
+    grid-template-columns: repeat(1, 400px);
+    gap: 20px;
+}
+
+.Div-style {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-style {
+    text-align: center;
+    border: 4px dashed #002D62;
+    font-size: 1.5rem;
+    padding: 5px 50px;
+    border-radius: 15px;
+    margin-block: 50px;
+}
+
+.text-alignment {
+    margin-block: 15px 30px;
+    width: 90%;
+    margin-inline: auto;
+}
+
+.price {
+    color: #00A550;
+    font-weight: bold;
+}
+
+.name-box {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.description-box {
+    font-size: 0.76rem;
+    font-weight: 600;
+}
+
+.read-more {
+    color: #15e4e4;
+    font-weight: bold;
+}
+
+.btn-style {
+    text-align: center;
+}
+
+button {
+    padding: 5px 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    background-color: #ffa07ab6;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.5s;
+}
+
+button:hover {
+    color: whitesmoke;
+    background-color: red;
+}
+
+.refresh {
+    height: 100vh;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media only screen and (min-width:576px) {
+
+    .cards-align {
+        display: grid;
+        grid-template-columns: repeat(1, 500px);
+        gap: 20px;
+    }
+
+    .Div-style {
+        margin-inline: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+}
+
+@media only screen and (min-width:768px) {
+
+    .cards-align {
+        display: grid;
+        grid-template-columns: repeat(2, 300px);
+        gap: 20px;
+    }
+
+    .Div-style {
+        margin-inline: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width:992px) {
+    .cards-align {
+        display: grid;
+        grid-template-columns: repeat(3, 300px);
+        gap: 20px;
+    }
+
+    .Div-style {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
