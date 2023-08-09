@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #4a4e69;
+}
+
+.gridBox {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 20px 15px;
+    width: 90%;
+    margin-inline: auto;
+    justify-content: center;
+    /* border: 2px solid red; */
+    margin-bottom: 15px;
+}
+
+.card-style {
+    position: relative;
+    width: calc(900px/3);
+    border-radius: 10px;
+    color: white;
+    background-color: #22223bd4;
+}
+
+.align {
+    width: 90%;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.like-btn {
+    position: absolute;
+    top: 145px;
+    cursor: pointer;
+    right: 10px;
+    padding: 5px;
+    background: white;
+    border: none;
+    border-radius: 50px;
+}
+
+.card-heading {
+    padding-top: 8px;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.navbar {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 500;
+    background-color: #22223b;
+    color: white;
+    padding-block: 10px;
+}
+
+.courses-align {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.buttonStyle {
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #22223bc8;
+    font-size: 1.2rem;
+
+}
+
+.buttonStyle:hover {
+    background-color: #22223b;
+    border: 2px solid white;
+}
+
+.final-align {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.custom-loader {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: conic-gradient(#0000 10%, #766DF4);
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 8px), #000 0);
+    animation: s3 1s infinite linear;
+}
+
+@keyframes s3 {
+    to {
+        transform: rotate(1turn)
+    }
+}
+
+.SpinnerStyle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
