@@ -1,0 +1,207 @@
+.GridBox {
+    width: 90%;
+    margin: 40px auto;
+    /* border: 2px solid black; */
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px 2%;
+    /* background-color: #fff5d7; */
+
+}
+
+body {
+    /* background-color: #fff5d7; */
+    background: url(https://img.freepik.com/free-photo/top-view-old-french-newspaper-pieces_23-2149318857.jpg?w=740&t=st=1690989048~exp=1690989648~hmac=7cfe7adce400004669dbe11cc8f109093a2b3a1232a4c552af10b0a1efc2fab6);
+}
+
+.align {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardsStyle {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: rgba(255, 255, 255, 0.86);
+}
+
+.bottomStyle {
+    width: 95%;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.description {
+    text-align: justify;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.date,
+.time {
+    font-size: 0.8rem;
+    color: burlywood;
+}
+
+.author {
+    text-transform: uppercase;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-nt {
+    background: #FF4742;
+    border: 1px solid #FF4742;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito, roboto, proxima-nova, "proxima nova", sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    transition: 0.5s;
+}
+
+.btn-nt:hover,
+.btn-nt:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #FF4742;
+}
+
+.btn-nt:active {
+    opacity: .5;
+}
+
+.form-style {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.form-Heading {
+    /* border: 2px solid blue; */
+    font-size: 2.3rem;
+    letter-spacing: 2px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    font-family: italic;
+}
+
+.input-style {
+
+    font-size: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    outline: none;
+    border: none;
+    color: rgba(0, 0, 0, 0.673);
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    width: 60%;
+}
+
+
+.input-style:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.input-button-style {
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    border: none;
+    padding: 10px 20px;
+    color: rgba(0, 0, 0, 0.696);
+}
+
+.input-button-style:hover {
+    border: 1px solid rgba(0, 0, 0, 0.407);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.inputs-align {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+@media only screen and (min-width:576px) {
+    .GridBox {
+        width: 90%;
+        margin: 40px auto;
+        /* border: 2px solid black; */
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px 2%;
+        /* background-color: #fff5d7; */
+    }
+
+}
+
+@media only screen and (min-width:768px) {
+    .GridBox {
+        grid-template-columns: repeat(2, 49%);
+    }
+
+}
+
+@media only screen and (min-width:992px) {
+    .GridBox {
+        width: 90%;
+        margin: 40px auto;
+        /* border: 2px solid black; */
+        display: grid;
+        grid-template-columns: repeat(2, 49%);
+        gap: 20px 2%;
+        /* background-color: #fff5d7; */
+
+    }
+
+    .input-style {
+        width: 100%;
+    }
+
+    .inputs-align {
+        display: flex;
+        gap: 5%;
+    }
+
+}

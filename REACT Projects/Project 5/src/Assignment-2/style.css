@@ -1,0 +1,137 @@
+.container {
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG8lMjBkbyUyMGxpc3R8ZW58MHx8MHx8fDA%3D&w=1000&q=80) no-repeat center center/cover;
+}
+
+.heading {
+    /* border: 1px solid black; */
+    font-weight: 500;
+    font-family: italic;
+}
+
+.mid-container {
+    /* border: 2px solid red; */
+    position: relative;
+}
+
+.mid-container p {
+    position: absolute;
+    top: 5px;
+    left: 8px;
+}
+
+.search-style {
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 5px 32px;
+    outline: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border: none;
+    font-weight: 100;
+    border-radius: 10px;
+}
+
+.search-style:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.note-maker {
+    position: relative;
+    border-radius: 10px;
+    height: 250px;
+    background-color: #32de84;
+}
+
+.grid-box {
+    gap: 15px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+
+
+.input-style,
+.save-btn,
+.reload {
+    position: absolute;
+}
+
+.input-style {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    left: 20px;
+    top: 20px;
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.759);
+}
+
+.reload {
+    font-size: 1rem;
+    right: 32px;
+    color: white;
+    background-color: #17B169;
+    padding: 4px;
+    border-radius: 20px;
+    border: none;
+
+    bottom: 70px;
+}
+
+.note-maker p {
+    position: absolute;
+    left: 15px;
+    bottom: 23px;
+    font-weight: 600;
+}
+
+
+.save-btn {
+    right: 20px;
+    bottom: 20px;
+    border: none;
+    padding: 5px 8px;
+    border-radius: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.note-maker-1 {
+    position: relative;
+    border-radius: 10px;
+    height: 250px;
+    background-color: #FFFF00;
+}
+
+.date,
+.trash,
+.notes {
+    position: absolute;
+}
+
+.date {
+    left: 20px;
+    bottom: 20px;
+    font-weight: 500;
+}
+
+.notes {
+    left: 20px;
+    top: 15px;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.trash {
+    cursor: pointer;
+    right: 20px;
+    bottom: 20px;
+}

@@ -20,7 +20,7 @@ label {
 
 input {
     padding: 10px;
-    width: stretch;
+    width: 100%;
 }
 
 label {
@@ -28,7 +28,6 @@ label {
 }
 
 .grid-align {
-    height: 100vh;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     gap: 20px;
