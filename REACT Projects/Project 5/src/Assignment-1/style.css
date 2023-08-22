@@ -1,0 +1,56 @@
+body {
+    /* border: 2px solid red; */
+    height: 100vh;
+    width: 80%;
+    margin-inline: auto;
+}
+
+.grid-align-1,
+.grid-align-2 {
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input,
+label {
+    font-size: 1.5rem;
+}
+
+input {
+    padding: 10px;
+    width: stretch;
+}
+
+label {
+    display: block;
+}
+
+.grid-align {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+}
+
+.heading h1 {
+    border: 5px dashed red;
+    padding: 10px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+@media only screen and (min-width:768px) {
+    .grid-align {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
