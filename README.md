@@ -21,7 +21,7 @@ These are my all Javascript Projects and Clones.
 | 04  | [Advance Stopwatch Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%204)                             | [Live Demo](https://649d4ebee5453e59225fcfca--ephemeral-swan-e81ecc.netlify.app/)               |
 | 05  | [Advance To do List Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%205)                             | [Live Demo](https://649d8b61dce17b0e1279f61e--precious-bunny-b932d0.netlify.app/)               |
 | 06  | [Calculator Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%206)                             | [Live Demo](https://649ecf0c0ffd370b46489236--benevolent-bombolone-b4c4be.netlify.app/)               |
-| 07  | [Calculator Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%207)                             | [Live Demo](https://symphonious-sunburst-642b69.netlify.app/)               |
+        |
 
 # 3- REACT Projects(Beginner Level Projects)
 
@@ -34,6 +34,7 @@ These are my all React Projects from beginner to Advanced.
 | 04  | [Top Courses mini Project](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/REACT%20Projects/Project%204)                             | [Live Demo](https://top-courses09.netlify.app/)               |
 | 05  | [Unit Converter](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/REACT%20Projects/Project%205)                             | [Live Demo](https://unit-converter106.netlify.app/)               |
 | 06  | [Blog App Using React-router and Context API](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/REACT%20Projects/Project%206)                             | [Live Demo](https://visionary-palmier-4a3b5a.netlify.app/)               |
+| 07  | [Mini Ecommerce website using Redux](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/REACT%20Projects/Project%207)                             | [Live Demo](https://symphonious-sunburst-642b69.netlify.app/)               |
 
 ## 🚀 About Me
 Hi there! I'm a recent graduate with a degree in Computer Science and a passion for Full Stack Development. I have hands-on experience with HTML, CSS, JavaScript, and various front-end frameworks such as React and Angular, as well as back-end technologies such as Node.js and MongoDB. I am also proficient in programming languages like Python and C++. I have a Strong foundation in software development principles, and I am eager to apply my skills to real-world projects. As a quick learner and a team player, I am excited to collaborate with experienced developers to create innovative solutions that meet the needs of clients and end-users. I am committed to continuously improving my skills and keeping up with the latest industry trends and best practices.
