@@ -20,8 +20,8 @@ These are my all Javascript Projects and Clones.
 | 03  | [Accordian Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%203)                             | [Live Demo](https://6499b01454005c00951ecbd0--flourishing-heliotrope-56ccd4.netlify.app/)               |
 | 04  | [Advance Stopwatch Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%204)                             | [Live Demo](https://649d4ebee5453e59225fcfca--ephemeral-swan-e81ecc.netlify.app/)               |
 | 05  | [Advance To do List Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%205)                             | [Live Demo](https://649d8b61dce17b0e1279f61e--precious-bunny-b932d0.netlify.app/)               |
-| 06  | [Calculator Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%206)                             | [Live Demo](https://649ecf0c0ffd370b46489236--benevolent-bombolone-b4c4be.netlify.app/)               |
-        |
+| 06  | [Calculator Mini Project ](https://github.com/shreyash9806/Full-Stack-Web-Development/tree/master/HTML%20CSS%20and%20Javascript%20Projects/Project%206)                             | [Live Demo](https://649ecf0c0ffd370b46489236--benevolent-bombolone-b4c4be.netlify.app/)         |
+
 
 # 3- REACT Projects(Beginner Level Projects)
 
